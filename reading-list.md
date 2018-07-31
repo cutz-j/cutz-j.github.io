@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-I will readi:
+I will read:
 
 1. 존 미클스웨이트: *제4의 혁명, 우리는 누구를 위한 국가에 살고 있는가*
 2. 보에티우스: *철학의 위안*
