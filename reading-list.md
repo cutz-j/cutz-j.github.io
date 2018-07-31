@@ -1,22 +1,17 @@
 ---
 title: Reading List
-subtitle: a list of books I read
+subtitle: a list of books I will read and read
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I will readi:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. 존 미클스웨이트: *제4의 혁명, 우리는 누구를 위한 국가에 살고 있는가*
+2. 보에티우스: *철학의 위안*
+3. 스티븐 스미스: **
+
+I did:
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
