@@ -40,14 +40,14 @@ email: cutz309@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/cutz-j" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 
 # Social settings
-facebook_url: https://www.facebook.com/hyeonseong.jeon.9
+facebook_url: "https://www.facebook.com/hyeonseong.jeon.9"
 github_url:
 googleplus_url:
-instagram_url: instagram/cutz309
+instagram_url: "instagram/cutz309"
 linkedin_url:
 pinterest_url:
 slack_url:
